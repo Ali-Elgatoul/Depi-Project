@@ -1,0 +1,3 @@
+Stram Analytics(https://portal.azure.com/#@EUI.edu.eg/resource/subscriptions/37054533-da5a-4ad6-9d28-4cd0c3a45a0f/resourceGroups/TrafficMonitoringGroup/providers/Microsoft.StreamAnalytics/streamingjobs/TrafficAnomalyJob/overview)
+Event Hub(https://portal.azure.com/#@EUI.edu.eg/resource/subscriptions/37054533-da5a-4ad6-9d28-4cd0c3a45a0f/resourceGroups/TrafficMonitoringGroup/providers/Microsoft.EventHub/namespaces/traffic-namespace-spain/overview)
+SQl Database(https://portal.azure.com/#@EUI.edu.eg/resource/subscriptions/37054533-da5a-4ad6-9d28-4cd0c3a45a0f/resourceGroups/TrafficMonitoringGroup/providers/Microsoft.Sql/servers/traffics-server/databases/TrafficDB/overview)
